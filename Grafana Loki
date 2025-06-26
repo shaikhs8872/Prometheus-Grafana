@@ -1,4 +1,4 @@
-### Notes on Grafana Loki, Promtail, and Grafana Configuration for Extracting NGINX Logs from 4 VMs #
+### Notes on Grafana Loki, Promtail, and Grafana Configuration for Extracting NGINX Logs from 4 VMs ##
 
 #### Overview:
 The goal is to set up **Loki** as the log aggregator, **Promtail** as the log shipper, and **Grafana** as the visualization layer to extract and view NGINX logs from 4 VMs. This stack provides an efficient solution for monitoring and analyzing logs from distributed sources.
